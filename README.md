@@ -22,6 +22,6 @@ To Launch Local Deployment in Project Folder (must have Docker installed - https
 
 Open browser to http://localhost:3000
 
-To view current Neo4j database locally, open browser to http://localhost:7474 and login with username: Neo4j, password: Neo4j
+To view current Neo4j database locally, open browser to http://localhost:7474 and login with username: neo4j, password: neo4j
 
 ![Screenshot](screenshot.png)
